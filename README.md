@@ -1,9 +1,9 @@
 ## Hello!
 I'm Alex. A graduate with Bachelor of "Automation, information and control systems", with an interest in all things programming (Python, C, C++) as well as embedded systems and software.
 
-My last project was designing and building a 3D printed, 4 Degree of freedom robotic arm controlled using a board based on the ATmega328P, running code written in C++ that performs inverse kinematic calculations for determining the positions of the separate joints.
-<!--
-**aleksgaleksiev/aleksgaleksiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My last project was designing and building a 4 Degree of freedom robotic arm with 3D printed joints, controlled using an Arduino UNO R3 board which runs code that performs inverse kinematic calculations for determining the positions of the separate joints.
+
+<!--**aleksgaleksiev/aleksgaleksiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
