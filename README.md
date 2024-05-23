@@ -1,7 +1,7 @@
 ## Hello!
-I'm Alex. A graduate with Bachelor of "Automation, information and control systems", 
-with an interest in all things programming (Python, C, C++) as well as embedded systems and software.
+I'm Alex. A graduate with Bachelor of "Automation, information and control systems", with an interest in all things programming (Python, C, C++) as well as embedded systems and software.
 
+My last project was designing and building a 3D printed, 4 Degree of freedom robotic arm controlled using a board based on the ATmega328P, running the code written in C++ that performs inverse kinematic calculations for determining the positions of the separate joints.
 <!--
 **aleksgaleksiev/aleksgaleksiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
