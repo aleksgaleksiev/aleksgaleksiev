@@ -1,5 +1,6 @@
 ## Hello!
-I'm Alex. A graduate with Bachelor of "Automation, information and control systems", with an interest in all things programming (Python, C, C++) as well as embedded systems and software.
+I'm Alex. A graduate with Bachelor of "Automation, information and control systems", 
+with an interest in all things programming (Python, C, C++) as well as embedded systems and software.
 
 <!--
 **aleksgaleksiev/aleksgaleksiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
