@@ -1,8 +1,8 @@
 ## Hello!
-  I'm Aleks, a graduate with Bachelor of "Automation, Information and Control Systems", with an interest in all things programming (Python, C, C++) as well as embedded systems and software.
+I'm Aleks, a graduate with Bachelor of "Automation, Information and Control Systems", with an interest in all things programming (Python, C, C++) as well as embedded systems and software.
 Currently I'm taking an online course about machine learning and deep learning.
 
-  My last project was designing and building a 4 degree of freedom robotic arm with 3D printed joints, controlled using an Arduino UNO R3 board which runs code that performs inverse kinematic calculations for determining the positions of the separate joints. I will be making a repository about the code used in that project.
+My last project was designing and building a 4 degree of freedom robotic arm with 3D printed joints, controlled using an Arduino UNO R3 board which runs code that performs inverse kinematic calculations for determining the positions of the separate joints. I will be making a repository about the code used in that project.
 
 <!--**aleksgaleksiev/aleksgaleksiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
